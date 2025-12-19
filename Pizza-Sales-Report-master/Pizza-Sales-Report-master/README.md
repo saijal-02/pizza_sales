@@ -93,8 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Explore the **Pizza Sales Report** to make informed decisions, optimize your menu offerings, and drive your pizza business to success. Thank you for choosing our tool!
 
-If you find this project interesting and useful, show your support by starring ⭐ the repository and sharing it with others. Let's revolutionize productivity together!
-
-## If any necessary commits are required to increase the elegance of this repo! I'm always open for a PR.
-
-## With this signing off..!!, BHARATH GUNTREDDI ..🤞
